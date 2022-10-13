@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Errorth
 ____ 
-- 👀 I’m interested in IT| Python | JavaScript | C#
+- 👀 I’m interested in Python | JavaScript (Web Development)
 ____ 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning React.js
 ____  
-- 💞️ I’m looking to collaborate on everyone. I can make custom discord bot for u.
+- 💞️ I’m looking to collaborate on everyone. I'm making discord bots
 ____  
 - 📫 How to reach me: Mayki#5252 Discord
 ____ 
