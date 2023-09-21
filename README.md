@@ -6,7 +6,7 @@
 ____ 
  👀 I’m interested in Python | JavaScript (Web Development)
 # Some Code #
-[Python Discord Bot](https:/vk.com/](https://github.com/Errorth/Errorth-project "repository")
+[Python Discord Bot](https://github.com/Errorth/Errorth-project "repository")
 
 ill be update it list
 ____ 
