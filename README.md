@@ -2,7 +2,7 @@
  
 # Sometext about me: #
 
-### I am Python developer, now try to became fullstack web-develper ###
+### I am Python developer, and fullstack web-develper ###
 ____ 
  👀 I’m interested in Python | JavaScript (Web Development)
 # Some Code #
@@ -10,8 +10,9 @@ ____
 
 ill be update it list
 ____ 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React Native
+- I'm currently developing Mobile App
 ____  
-- 📫 How to reach me: Mayki#5252 Discord
+- 📫 How to reach me: @.mayki__ Discord
 ____ 
 
